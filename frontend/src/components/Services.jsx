@@ -5,9 +5,7 @@ const SERVICES_DATA = [
     id: 'lawn-mowing',
     title: 'Lawn Mowing',
     icon: 'fa-scissors',
-    description: 'Weekly or bi-weekly mowing, precise string trimming (weed eating), hard edging along driveways/walkways, and clean blow-off of all hard surfaces.',
-    imageUrl: 'https://images.pexels.com/photos/1453813/pexels-photo-1453813.jpeg?auto=compress&cs=tinysrgb&w=600',
-    altText: 'Close up of a lawn mower cutting green grass'
+    description: 'Weekly or bi-weekly mowing, precise string trimming (weed eating), hard edging along driveways/walkways, and clean blow-off of all hard surfaces.'
   },
   {
     id: 'lawn-maintenance',
@@ -25,17 +23,13 @@ const SERVICES_DATA = [
     id: 'landscape-design',
     title: 'Landscape Design',
     icon: 'fa-trowel-bricks',
-    description: 'Transform your outdoor space with custom flowerbed designs, shrub installation, sod laying, and hardscape borders that elevate your home curb appeal.',
-    imageUrl: 'https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=600&q=80',
-    altText: 'Lush landscaping design with blooming flowers and decorative stone path'
+    description: 'Transform your outdoor space with custom flowerbed designs, shrub installation, sod laying, and hardscape borders that elevate your home curb appeal.'
   },
   {
     id: 'mulching',
     title: 'Mulch & Pine Straw',
     icon: 'fa-bucket',
-    description: 'Fresh delivery and precise installation of double-shredded hardwood mulch, pine straw, or decorative stone to retain moisture and suppress weeds.',
-    imageUrl: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&q=80',
-    altText: 'Fresh dark wood mulch installed in a backyard flowerbed'
+    description: 'Fresh delivery and precise installation of double-shredded hardwood mulch, pine straw, or decorative stone to retain moisture and suppress weeds.'
   },
   {
     id: 'weed-control',
